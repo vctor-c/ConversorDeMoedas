@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ConversorDeMoedas</string>
+    <string name="conversor_de_moedas">Conversor de Moedas</string>
+    <string name="digite_o_valor_em_real">Digite o valor em Real:</string>
+    <string name="valor_em_dolar">Valor Em Dolar:</string>
+    <string name="valor_em_euro">Valor em Euro:</string>
+    <string name="calular">Calular</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Informe_o_valor">Informe o valor</string>
+</resources>
